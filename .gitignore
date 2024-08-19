@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 uploads/photos/*.png
 uploads/photos/*.jpg
 uploads/users/*.png
